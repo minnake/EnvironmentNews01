@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Environment News</string>
+
+    <string name="request_url"><![CDATA[https://content.guardianapis.com/search?show-tags=contributor&page-size=20&section=environment&api-key=test]]></string>
+    <string name="no_author">No author</string>
+
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_news">No news found. Refresh and try again.</string>
+
+    <string name="problem_http_request">Problem making the HTTP request</string>
+    <string name="error_url">Error with creating URL</string>
+    <string name="error_code">Error response code: </string>
+    <string name="problem_retrieving_results">Problem retrieving the news JSON results</string>
+    <string name="problem_parsing">Utils, problem parsing the news JSON results</string>
+
+</resources>
