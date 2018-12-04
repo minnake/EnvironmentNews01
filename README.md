@@ -1,5 +1,4 @@
-# Environment News 01
-News App, Stage 1 
+# News App, Stage 1 
 
 Project Overview 
 
